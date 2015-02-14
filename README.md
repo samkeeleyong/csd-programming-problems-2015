@@ -12,17 +12,19 @@ Solutions to the 2015 NDMU IT Week Programming Contest.
 
 	Read this on getting up to speed with [Maven](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
+
 3. Do Maven stuff. ;)
+	Go to the root of your project in the terminal and type: 
 
-Go to the root of your project in the terminal and type: 
+ 		mvn install
 
- 	mvn install
-
-After you see *Build Successful*, type in :
+	After you see *Build Successful*, type in :
 	
-	mvn test
+		mvn test
 
 4. Go check out the solutions!
+
+
 
 
 
